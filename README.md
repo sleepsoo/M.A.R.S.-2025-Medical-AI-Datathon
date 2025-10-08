@@ -1,6 +1,5 @@
 # M.A.R.S.-2025-Medical-AI-Datathon
-2025 서울대병원 임상문서 생성 데이터톤
-**링크**: https://datathon2025.imweb.me/
+2025 서울대병원 임상문서 생성 데이터톤     **링크**: https://datathon2025.imweb.me/
 
 
 ## 대회 개요
