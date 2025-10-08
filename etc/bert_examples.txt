@@ -1,0 +1,464 @@
+=== BERTScore 최적화 특화 예시 (완전판) ===
+
+예시 1 (BERTScore 특화점수: 41, 유형: ct_head)
+FINDINGS: There is enhancing right frontal extra-axial mass measuring 5.1 cm TV x 4.8 cm
+AP x 4.3 cm SI demonstrating isointense T1 and hyperintense T2/FLAIR signal
+abnormality with areas of subtle hypointense GRE signal along the periphery,
+likely representing calcifications seen on prior CT.  There is enhancement and
+thickening of the adjacent dura (900:117).  There are prominent vascular
+structures along the inferior margin of the mass (900:93) suggestive of
+neovascularity, potentially arising from the middle meningeal artery.  There
+is mild surrounding vasogenic edema with 1 mm leftward midline shift.  There
+is no additional enhancing mass or abnormal enhancement.
+
+There is no evidence of acute infarction or intracranial hemorrhage. There is
+mild age-related diffuse parenchymal volume loss.  There are a few nonspecific
+periventricular and subcortical FLAIR hyperintensities which may be a sequela
+of chronic small vessel ischemic disease in a patient of this age.  The major
+visualized arterial vascular flow voids are preserved.  The dural venous
+sinuses appear patent on the postcontrast MPRAGE images.
+
+There is mild mucosal thickening of bilateral ethmoid air cells and left
+maxillary sinus.  There is a tiny right maxillary sinus mucosal retention
+cyst.  The bilateral mastoid air cells appear clear.  The orbits appear
+unremarkable.  The visualized soft tissues appear unremarkable.
+IMPRESSION: 1. Enhancing right frontal extra-axial mass compatible with meningioma with
+adjacent neovascularity, dural thickening enhancement, and mild surrounding
+vasogenic edema resulting in 1 mm leftward midline shift.
+2. No additional enhancing mass or abnormal enhancement.
+3. No evidence of acute infarction or intracranial hemorrhage.
+4. Mild age-related diffuse parenchymal volume loss with nonspecific white
+matter signal abnormality, likely a sequela of chronic small vessel ischemic
+disease.
+5. Mild paranasal sinus disease, as above.
+----------------------------------------------------------------------------------------------------
+
+예시 2 (BERTScore 특화점수: 40, 유형: chest)
+FINDINGS: CT HEAD WITHOUT CONTRAST:
+Acute intraventricular hemorrhage is seen extending from the body, frontal,
+occipital, and temporal horns left lateral ventricle to the third ventricle
+and fourth ventricle.  Increased density is seen within the right lateral
+ventricle, also concerning for intraventricular hemorrhage, series 3, image
+18.  Ventricles and sulci are prominent.
+
+Encephalomalacia with ex vacuo dilatation is seen involving the right
+posterior parietal lobe, and medial aspects of the right occipital lobe,
+consistent with a chronic infarct.  Additional areas of hypodensity within the
+right parieto-occipital and temporal lobes, is consistent with infarction of
+indeterminate chronicity.  Periventricular and deep subcortical white matter
+hypodensities are likely sequelae of chronic small vessel ischemic disease. 
+The visualized paranasal sinuses, mastoid air cells, and middle ear cavities
+are clear.  The globes are unremarkable.
+
+CTA HEAD:
+Moderate atherosclerotic calcifications are seen along the cavernous segment
+of the left internal carotid artery.  There is attenuation of the left MCA and
+its distal branches, with minimally preserved flow.  The right internal
+carotid artery demonstrates moderate to severe stenosis secondary to
+atherosclerotic calcification along the cavernous segment of the right
+internal carotid artery.  The M1 and M2 segments of the right middle cerebral
+artery are not well seen, however there appears to be minimal flow within the
+distal segments of the right middle cerebral artery.
+
+CTA NECK:
+Hard and soft atherosclerotic plaque is seen along the origins of the great
+vessels as well as the aortic arch.  Extensive atherosclerotic calcification
+is seen along the right carotid bifurcation, with 40% stenosis of the right
+internal carotid artery.  The left common carotid artery is unremarkable.  The
+left internal carotid artery demonstrates moderate hard and soft
+atherosclerotic plaque, with at least 60% stenosis by NASCET criteria.  The
+left vertebral artery is occluded proximally the approximately 1 cm distal to
+its origin and reconstitutes at C4, with severely attenuated flow along the V3
+segments of the left vertebral artery.  Improved flow is seen within the V4
+segment of the left vertebral artery, likely secondary to collaterals.  The
+right vertebral artery is unremarkable.  The anterior cerebral arteries are
+unremarkable.  The left PCA is normal.  Asymmetrically decreased flow seen
+within the P1 segment of the right posterior cerebral artery.  No definite
+flow is seen in the remainder segments of the right posterior cerebral artery.
+
+OTHER:
+The thyroid is normal.  There is no cervical lymphadenopathy.  A moderate
+effusion is seen within the right lung apex.  Mild interstitial thickening is
+seen involving the left lung apices, which may be secondary to pulmonary
+edema.
+IMPRESSION: 1. Hypodensity within the right parieto-occipital and temporal lobes is seen,
+consistent with an infarction of indeterminate chronicity.  Please note MRI of
+the brain is more sensitive for the detection of acute infarct.
+2. Large left greater than right intraventricular hemorrhage is seen extending
+from the body, frontal, occipital, and temporal horns of the left lateral
+ventricle to the third ventricle and fourth ventricle.
+3. Complete occlusion is seen involving the left vertebral artery, 1 cm distal
+to its origin, with minimal reconstitution at the level of C4 and severely
+attenuated flow along the V3 segment.
+4. Attenuated flow is seen within the P1 segment of the right posterior
+cerebral artery, with absence of flow within the distal right PCA, concerning
+for occlusion.
+5. No definite flow is seen within the M1 and M2 segments of the right middle
+cerebral artery which may be occluded, however with attenuated arborization of
+the distal right MCA vessels likely secondary to collateralization.
+6. Attenuated flow within the left middle cerebral artery, may be secondary to
+vasospasm.
+7. Moderate right pleural effusion.  Mild pulmonary edema.
+8. 40% stenosis of the right internal carotid artery by NASCET criteria.  At
+least 60% stenosis of the left internal carotid artery by NASCET criteria.
+9. Likely chronic infarction involving the medial aspect of the right
+occipital lobe.
+----------------------------------------------------------------------------------------------------
+
+예시 3 (BERTScore 특화점수: 36, 유형: ct_head)
+FINDINGS: MR BRAIN: There is a subcortical 'bubbly' T2/FLAIR hyperintense lesion within
+the left frontal lobe measuring 3.8 cm TV x 2.2 cm AP x 1.6 cm SI
+demonstrating subtle slow diffusion with punctate focus of susceptibility
+artifact medially related to calcification or hemorrhage.  The FLAIR
+hyperintensities confined within the lesion without surrounding edema or
+significant mass effect.  There is mild mass effect on the gyrus.
+
+The ventricles are normal in size.  There is no evidence of infarction or
+hemorrhage.  There is no mass effect or midline shift.  There is mild mucosal
+thickening of bilateral ethmoid air cells and maxillary sinuses.  The
+bilateral mastoid air cells appear clear.  The major intracranial flow voids
+are preserved.
+
+ASL Perfusion: There is a 4 mm focus of increased perfusion along the
+anteromedial aspect of the lesion, demonstrating similar signal to the cortex
+(series 4, image 17).
+
+MR Spectroscopy: There is nonspecific spectroscopy pattern within the left
+frontal lobe, without definite abnormal choline to NAA or choline to
+creatinine ratio on single voxel spectroscopy.  On multi voxel spectroscopy,
+there is paucity of metabolites along the cystic portions of the lesion on
+voxel is 5, 6, 7, 12, 13, 14, 20 and 21.  A few of these voxels demonstrates
+mildly increased choline to NAA ratio although none demonstrates ratio greater
+than 0.8.
+IMPRESSION: 1. Cortically based 'bubbly' left frontal lobe lesion with associated punctate
+focus of gradient echo susceptibility hypointensity, which may represent
+calcification although hemorrhage is not excluded, without surrounding edema
+or significant mass effect.  These imaging characteristics are most suggestive
+of underlying DNET (dysembryoplastic neuroepithelial tumor).  Differential
+considerations include ganglioglioma or oligodendroglioma although these do
+not usually demonstrate a "bubbly' appearance or other low-grade glioma.
+2. 4 mm focus of increased perfusion along the anteromedial aspect of the
+lesion, demonstrating similar signal to the cortex.  There is overall paucity
+of metabolites centered within the lesion, potentially representing cystic
+nature of the lesion, with a few voxel is demonstrating mildly increased
+choline to NAA ratio although none is greater than 0.8.
+3. No evidence of acute infarction or hemorrhage.
+----------------------------------------------------------------------------------------------------
+
+예시 4 (BERTScore 특화점수: 35, 유형: ct_head)
+FINDINGS: Overlying the right frontal and parietal lobes is a 4 mm thin extra-axial rim
+of fluid which is iso-to slightly dense that likely represents a chronic
+subdural hematoma.  A similar finding was noted in the ___
+noncontrast head CT at which point it measured 4.9 mm in maximum thickness. 
+No additional intracranial hemorrhage is seen.  There is no midline shift. 
+Differentiation of gray and white matter is preserved. There is prominence of
+the ventricles and sulci suggestive of involutional changes.
+
+Mild thickening of the right preseptal/periorbital soft tissues may reflect
+the site of recent head strike.  There is no underlying acute fracture.  There
+is no evidence of retrobulbar hematoma.  Globes intact.
+
+There is mild mucosal thickening of the right maxillary sinus and partial
+opacification of the left mastoid air cells.  The visualized portion of the
+remainder of the paranasal sinuses, mastoid air cells, and middle ear cavities
+are clear.
+IMPRESSION: 1. Small extra-axial fluid collection overlying the right cerebral hemisphere,
+likely a chronic subdural hematoma without midline shift, similar in
+appearance to that seen in ___.
+2. No acute intracranial process or acute hemorrhage otherwise noted.
+3. Mild right periorbital soft tissue swelling.  No fracture.
+----------------------------------------------------------------------------------------------------
+
+예시 5 (BERTScore 특화점수: 35, 유형: ct_head)
+FINDINGS: 1 cm late acute right thalamic infarct (series 6, image 16) is identified.  No
+evidence of hemorrhagic transformation.  There are very mild periventricular
+and subcortical scattered T2/FLAIR white matter hyperintensities, nonspecific,
+but compatible with chronic microangiopathy in a patient this age.  The sulci,
+ventricles and cisterns are within expected limits for the degree of mild
+senescent related global cerebral volume loss.
+
+There is a well-circumscribed right parietal 4.1 by 1.9 cm (TRV, AP)
+extra-axial dural-based lesion compatible with a calcified meningioma,
+exerting minimal mass effect on the underlying brain parenchyma.  No evidence
+of associated parenchymal FLAIR hyperintense edema pattern.  No other
+intracranial mass lesions are identified.
+
+The major intracranial flow voids are preserved.  The dural venous sinuses are
+patent.  The paranasal sinuses are essentially clear.  The orbits are
+unremarkable.  The mastoid air cells appear clear.  No suspicious osseous
+signal.
+IMPRESSION: 1. Late acute right thalamic infarct without evidence of hemorrhagic
+transformation.
+2. Right parietal 4.1 cm calcified meningioma, with mild mass effect on the
+underlying brain parenchyma.  No evidence of associated parenchymal FLAIR
+hyperintense edema pattern.
+3. Additional findings described above.
+----------------------------------------------------------------------------------------------------
+
+예시 6 (BERTScore 특화점수: 34, 유형: chest)
+FINDINGS: Motion, surgical hardware, dental amalgam streak artifactand patient body
+habitus limits study.
+
+CT HEAD WITHOUT CONTRAST:
+There are hemorrhagic contusions in the bilateral inferior frontal lobes and
+left anterior temporal lobe with surrounding vasogenic edema. There is an
+acute subdural hematoma overlying the left frontoparietal convexity.  There
+are hyperdense blood products consistent with traumatic subarachnoid
+hemorrhage in the sulci of the bilateral frontal lobes (2:24),
+interhemispheric fissure (2:22) and left parietal lobe posteriorly (2:26).
+There is an acute subdural hematoma in the interhemispheric fissure
+surrounding the posterior falx. There are multiple foci of pneumocephalus
+overlying the left frontal convexity, left frontal lobe (2:24) and at the
+vertex. There is mild effacement of the frontal horn of the left lateral
+ventricle. There is no midline shift. The basal cisterns are patent. There is
+no intraventricular blood.
+
+There is a fracture of the left frontal bone with a linearly oriented fracture
+line extending from the bregma anteriorly towards the left (2:30).  There is a
+fracture line that extends from the skull vertex posterolaterally through the
+right parietal bone.  Additionally, there is a fracture line that extends
+posterolaterally along the midline, towards the right occipital bone.
+
+There is a mildly depressed calvarial fracture of the left parietal bone
+posterior to the vertex.  There is an extra-axial collection of blood
+superficial to the dura underlying the depressed skull fracture, with inferior
+displacement of the superior sagittal sinus, consistent with a venous epidural
+hematoma. There is no evidence of active extravasation of contrast into the
+hematoma.
+
+There is a hematoma overlying the left temporal scalp. There is a subgaleal
+hematoma overlying the scalp vertex.
+
+Small amount of fluid partially opacifying the left mastoid air cells. 
+Question chronic right lamina papyracea fracture versus volume averaging
+artifact (see 4:235).  The adjacent ethmoid air cells are grossly clear.  Left
+sphenoid sinus small air-fluid levels noted.  The visualized portion of the
+mastoid air cells, and middle ear cavities are otherwise clear. The visualized
+portions of the orbits are normal.  No evidence of a retrobulbar hematoma.
+
+CTA HEAD:
+ Nonocclusive atherosclerotic narrowing of the cavernous and supraclinoid
+segments of the bilateral internal carotid arteries are seen.
+
+Otherwise, the vessels of the circle of ___ and their principal
+intracranial branches appear preserved without stenosis, occlusion, or
+aneurysm.  There is redemonstration of the venous epidural hematoma
+superficial to the posterior aspect of the superior sagittal sinus.  The dural
+venous sinuses are patent.
+
+CTA NECK:
+There is atherosclerotic calcification of the aortic arch and proximal left
+subclavian artery without stenosis.  Bilateral carotid and vertebral artery
+origins are patent.  Minimal nonocclusive partially calcified probable
+atherosclerotic changes of bilateral carotid bifurcations are noted.  There is
+no evidence of moderate or high-grade internal carotid stenosis by NASCET
+criteria. The vertebral arteries and their major branches appear grossly
+preserved with no evidence of stenosis, occlusion, or dissection.
+
+CT PERFUSION:
+Rapid perfusion maps demonstrate no definite focal CBV or MTT defects. There
+is an area of increased MTT in the left anterior temporal lobe and bilateral
+inferior frontal lobes with matched areas of decreased blood flow,
+corresponding to the areas of hemorrhagic contusion.
+
+CT CERVICAL SPINE:
+Alignment is grossly preserved.  There is a linearly oriented lucency through
+the right foramen transversarium of C3 with well corticated margins.  There is
+no prevertebral edema.  Within limits of study, there is no definite evidence
+of acute cervical spine fracture.  No evidence of right vertebral artery
+dissection at this level or elsewhere on the CTA.  Vertebral body heights are
+preserved.
+
+OTHER:
+The visualized portion of the lungs are grossly clear.  The patient is status
+post CABG.  Sternotomy wires are seen in the visualized sternum.  The
+visualized portion of the thyroid gland is grossly preserved.  There is no
+lymphadenopathy by CT size criteria.
+IMPRESSION: 1. Limited study as described.
+2. Hemorrhagic contusions in the bilateral inferior frontal lobes with
+surrounding vasogenic edema.  Acute left subdural hematoma with mild
+effacement of the frontal horn of the left lower ventricle.  There is
+extension of the subdural to the interhemispheric fissure along the anterior
+falx.  Small acute subdural hematoma along the posterior falx.
+3. Traumatic subarachnoid hemorrhage with blood seen in the sulci of the
+bilateral frontal lobes, parietal lobes and left anterior temporal lobe.
+4. Comminuted fracture of the calvarium with a mildly displaced fragment at
+the calvarial vertex with an extra-axial collection concerning for venous
+epidural hematoma.
+5. No evidence of acute large territorial infarction.  Please note MRI of the
+brain is more sensitive for the detection of acute infarct.
+6.  Nonocclusive atherosclerotic narrowing of circle ___ as described.
+7. Otherwise, grossly patent circle of ___.
+8.  Nonocclusive cervical arterial atherosclerotic disease as described.
+9. Otherwise, grossly patent bilateral cervical carotid and vertebral arteries
+without evidence of stenosis, occlusion, or dissection.
+10. Question chronic right foramen transversarium fracture versus degenerative
+change.  If concern for nondisplaced acute to subacute fracture, consider
+cervical spine MRI for further evaluation.
+11. No definite acute fracture or traumatic subluxation of the cervical spine.
+12.  Additional findings as described above.
+----------------------------------------------------------------------------------------------------
+
+예시 7 (BERTScore 특화점수: 21, 유형: ct_abdomen)
+FINDINGS: Study is mildly degraded by motion.
+
+A rounded T2 hyperintense structure in the imaged portions of the inferior
+left occipital lobe is presumed to represent the occipital horn of the left
+lateral ventricle, although incompletely imaged.
+
+CERVICAL:
+
+There is no evidence for acute vertebral body height loss.  There is
+exaggerated kyphotic curve involving the lower cervical and upper thoracic
+spine.  Vertebral body heights are preserved. There is no marrow signal
+abnormality.
+
+Minimal multilevel degenerative changes are seen throughout the cervical
+spine, with multiple posterior disc bulges most prominent at C6-7.  These
+result in mild canal narrowing without moderate or severe stenosis. 
+Multilevel uncovertebral joint hypertrophy is also seen, most significant at
+C6-7 where it is moderate on the right and moderate severe on the left.
+
+THORACIC:
+There is exaggeration of the thoracic kyphosis.  Vertebral body heights are
+preserved. There is no marrow signal abnormality.
+
+A rounded, T1/T2 hyperintense lesion in the T10 vertebral body demonstrates
+loss of signal on fat suppression images, and is compatible with a hemangioma.
+There is no focal abnormal bone marrow signal identified.
+
+There is no evidence for moderate severe vertebral canal stenosis or neural
+foraminal narrowing within the thoracic spine.
+
+ The visualized portion of the thoracic spinal cord is grossly preserved in
+signal and caliber.
+
+LUMBAR:
+Vertebral body heights are maintained. Vertebral body alignment is within
+normal limits, without evidence for subluxation.  There is no focal abnormal
+bone marrow signal.  The conus medullaris terminates at the level of L1.
+
+There is multilevel loss of intervertebral disc height and intrinsic T2
+signal.  Additionally, there are mild disc bulges most notable at L3-L4 and
+L4-L5.  Spondylitic changes are most notable at L4-L5 with moderate canal
+stenosis, mild left and moderate right neural foraminal narrowing.  There is
+no severe canal stenosis or neural foraminal narrowing identified.
+
+There is no evidence for abnormal intramedullary, leptomeningeal, or epidural
+enhancement. No evidence for epidural collection or abscess.
+
+A T2 hyperintensity extending from the right renal pelvis is presumed a
+peripelvic cyst.  The remainder of the visualized paraspinal soft tissues are
+grossly unremarkable.
+IMPRESSION: 1.  Study is mildly degraded by motion.
+2. No evidence for abnormal intramedullary, leptomeningeal, or epidural
+enhancement, with no definite evidence of epidural collection or abscess.
+3. Mild multilevel background spondylosis of the cervical and lumbar spine, as
+above.  No evidence for moderate/severe canal stenosis or severe neural
+foraminal narrowing.
+4. Exaggerated kyphotic curvature of the lower cervical and upper thoracic
+spine.
+----------------------------------------------------------------------------------------------------
+
+예시 8 (BERTScore 특화점수: 19, 유형: ct_abdomen)
+FINDINGS: CERVICAL:
+Degenerative 2 mm retrolisthesis of C5 on C6 is identified.  Otherwise,
+cervical alignment is anatomic.  Vertebral body heights are preserved.  No
+evidence of abnormal or disc signal.  No epidural collection.  No prevertebral
+collection.  The visualized posterior fossa is unremarkable.  There is no cord
+signal abnormality.
+
+C2-C3: No significant spinal canal or neural foraminal narrowing.
+
+C3-C4: Small central protrusion does not significantly narrow the spinal
+canal.  Uncovertebral and facet arthropathy results in mild
+left-greater-than-right neural foraminal narrowing.
+
+C4-C5: A small central protrusion results in mild spinal canal narrowing. 
+Uncovertebral and facet arthropathy results in moderate right and mild left
+neural foraminal narrowing.
+
+C5-C6: A central protrusion with thickening of the ligamentum flavum results
+in moderate spinal canal narrowing, without remodeling the cord. 
+Uncovertebral and facet arthropathy results in likely severe bilateral neural
+foraminal narrowing.
+
+C6-C7: Uncovertebral and facet arthropathy results in mild bilateral neural
+foraminal narrowing.  A small left eccentric protrusion does not significantly
+narrow the spinal canal.
+
+C7-T1: No significant spinal canal or neural foraminal narrowing.
+
+There is T2/STIR hyperintense signal along the level for cervical lymph nodes
+(series 6, image 20; series 11, image 21), which may be reactive for
+potentially posttraumatic in nature.  Clinical correlation is recommended.
+
+THORACIC:
+Alignment is anatomic.Vertebral body and intervertebral disc signal intensity
+appear unremarkable.The spinal cord appears normal in caliber and
+configuration. There is no evidence of high-grade spinal canal or neural
+foraminal narrowing. There is no evidence of infection or neoplasm.  There is
+no abnormal enhancement after contrast administration.  No epidural or
+prevertebral collection.
+
+LUMBAR:
+Stepwise 2 mm retrolisthesis of L 2 on L3 and L3 on L4 is unchanged from
+outside hospital examination.  Otherwise, lumbar alignment is anatomic. 
+Re-identified is approximately 25% loss of anterior body height of L4, with
+mild STIR hyperintense signal compatible with compression fracture.  No
+evidence of epidural or prevertebral collection or adenoid disc signal to
+suggest discitis osteomyelitis.
+
+Degenerative loss of disc height is moderate to severe spanning L3-L4 through
+L5-S1.  Rudimentary S1-S2 disc is identified.  The conus medullaris terminates
+at L2 level, within expected limits.  There is no abnormal signal or
+enhancement of the terminal cord or cauda equina.
+
+L1-L2 and L2-L3: Small disc bulges does not significantly narrow the spinal
+canal.  No significant neural foraminal narrowing.  Facet joint effusions of
+the right L2-L3 facet may be posttraumatic or degenerative in nature.
+
+L3-L4: A disc bulge with thickening of the ligamentum flavum results in severe
+spinal canal narrowing with buckling of the cauda equina superiorly.  Loss of
+disc height and facet arthropathy results in moderate to severe bilateral
+neural foraminal narrowing.  Facet joint effusions on the right is identified,
+which may be posttraumatic is degenerative in nature.
+
+L4-L5: A small disc bulge results in mild spinal canal narrowing.  There is
+crowding of the left subarticular zone contacting but not definitively
+posteriorly displacing the traversing nerve root.  Combination with facet
+arthropathy and loss of disc height there is at least moderate left and
+mild-to-moderate right neural foraminal narrowing.
+
+L5-S1: A disc bulge does not significantly narrow the spinal canal.  There is
+crowding of the subarticular zones contacting but not posteriorly displacing
+traversing nerve roots.  Loss of disc height and facet arthropathy results in
+severe bilateral neural foraminal narrowing.
+
+There is cholelithiasis without evidence of cholecystitis (series 14, image
+7).  A simple right renal midpole 3.2 cm cyst is identified.  Infrarenal
+abdominal aortic ectasia measuring approximately 3.5 cm can be seen on prior
+exam.  Otherwise, evidence of prevertebral or paraspinal collection or other
+abnormality.
+IMPRESSION: 1. Compression deformity of L4 with approximately 25% loss of anterior
+vertebral body height, without epidural or prevertebral collection, adjacent
+suspicious disc signal abnormality enhancement or adjacent psoas muscle
+enhancement to suggest discitis osteomyelitis.  Findings support traumatic
+injury rather than infectious process.
+2. At L3-L4, a disc bulge with thickening of the ligamentum flavum results in
+severe spinal canal narrowing, with buckling of the cauda equina superiorly.
+3. There is severe bilateral L5-S1 neural foraminal narrowing.
+4. There is moderate spinal canal narrowing of the C5-C6 level without
+evidence of cord signal abnormality.  Severe bilateral neural foraminal
+narrowing at this level.
+5. There is no high-grade spinal canal or neural foraminal narrowing of the
+thoracic spine.
+6. There is no abnormal signal or enhancement of the cord or cauda equina.
+7. STIR hyperintense signal and inflammatory stranding associated with left
+level 4 lymph nodes.  This could be reactive or posttraumatic in nature. 
+Clinical correlation is recommended.  This could be further evaluated with CT
+neck as indicated.
+8. Cholelithiasis without cholecystitis an additional findings as described
+above.
+----------------------------------------------------------------------------------------------------
+
