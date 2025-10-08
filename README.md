@@ -2,11 +2,11 @@
 2025 서울대병원 임상문서 생성 데이터톤
 
 ## 대회 개요
+**링크**: https://datathon2025.imweb.me/
 **대회명**: M.A.R.S. Medical AI Datathon 2025 예선  
 **주최**: Seoul National University Bundang Hospital (SNUBH)  
 **참여 기간**: 2025년 9월
 **과제**: 의료 AI 3개 태스크 통합 수행
-**링크**: https://datathon2025.imweb.me/
 
 ## 과제별 정의
 
